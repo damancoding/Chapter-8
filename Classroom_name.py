@@ -14,3 +14,6 @@ age = input("Input student age: ")
 
 def print_student(s1):
     print(s1(f"This student's name is {name} and their age is {age}."))
+
+adding()
+print_student(s1)
